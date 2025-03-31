@@ -61,16 +61,8 @@ This is a simple To-Do List application that uses PostgreSQL as its database. Th
 - Gained experience in working with PostgreSQL
 - Learned how to use the `pg` package to execute native SQL queries in JavaScript
 - Understood the process of integrating a database with a Node.js application
-
-## Future Enhancements
-- Implement authentication and user management
-- Add a front-end interface (React/Vue/Angular)
-- Improve error handling and logging
-
-## License
-This project is licensed under the MIT License.
-
+- 
 ## Author
-[Your Name]
+[AAYUSH DALAL]
 
 
